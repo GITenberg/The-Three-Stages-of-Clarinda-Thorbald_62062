@@ -1,0 +1,23 @@
+_repo: The-Three-Stages-of-Clarinda-Thorbald_62062
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jr.
+    gutenberg_agent_id: '51756'
+    url: http://www.gutenberg.org/2009/agents/51756
+  - agent_name: Hamilton, William T.
+    gutenberg_agent_id: '51755'
+    url: http://www.gutenberg.org/2009/agents/51755
+description: ''
+gutenberg_issued: '2020-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Three Stages of Clarinda Thorbald
+url: http://www.gutenberg.org/ebooks/62062
